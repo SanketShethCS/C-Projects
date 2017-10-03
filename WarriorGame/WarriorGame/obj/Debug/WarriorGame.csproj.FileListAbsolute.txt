@@ -1,0 +1,12 @@
+c:\users\nolan\documents\visual studio 2017\Projects\WarriorGame\WarriorGame\bin\Debug\WarriorGame.exe.config
+c:\users\nolan\documents\visual studio 2017\Projects\WarriorGame\WarriorGame\bin\Debug\WarriorGame.exe
+c:\users\nolan\documents\visual studio 2017\Projects\WarriorGame\WarriorGame\bin\Debug\WarriorGame.pdb
+c:\users\nolan\documents\visual studio 2017\Projects\WarriorGame\WarriorGame\obj\Debug\WarriorGame.csprojResolveAssemblyReference.cache
+c:\users\nolan\documents\visual studio 2017\Projects\WarriorGame\WarriorGame\obj\Debug\WarriorGame.exe
+c:\users\nolan\documents\visual studio 2017\Projects\WarriorGame\WarriorGame\obj\Debug\WarriorGame.pdb
+C:\Users\nolan\Desktop\Code Projects\C# Projects\WarriorGame\WarriorGame\bin\Debug\WarriorGame.exe.config
+C:\Users\nolan\Desktop\Code Projects\C# Projects\WarriorGame\WarriorGame\bin\Debug\WarriorGame.exe
+C:\Users\nolan\Desktop\Code Projects\C# Projects\WarriorGame\WarriorGame\bin\Debug\WarriorGame.pdb
+C:\Users\nolan\Desktop\Code Projects\C# Projects\WarriorGame\WarriorGame\obj\Debug\WarriorGame.csprojResolveAssemblyReference.cache
+C:\Users\nolan\Desktop\Code Projects\C# Projects\WarriorGame\WarriorGame\obj\Debug\WarriorGame.exe
+C:\Users\nolan\Desktop\Code Projects\C# Projects\WarriorGame\WarriorGame\obj\Debug\WarriorGame.pdb
